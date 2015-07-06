@@ -38,7 +38,6 @@
     <module>core</module>
     <module>war</module>
     <module>jsr160</module>
-    <module>mule</module>
     <module>osgi</module>
     <module>osgi-bundle</module>
     <module>jmx</module>
